@@ -1,6 +1,6 @@
 import { USER_PROFILE } from "../../constants/User";
 import { createElement, select } from "../../utils";
-import { Footer } from "../Footer/Footer";
+import { Footer } from "../footer/Footer";
 import { Header } from "../header/Header";
 import { Sidebar } from "../sidebar/Sidebar";
 
